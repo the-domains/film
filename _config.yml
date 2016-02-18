@@ -1,0 +1,28 @@
+name: Film
+favicon: null
+layout_spectrum: 0.08694316120818257
+typography_spectrum: 0.48880700394511223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8675288658123463
+  lightness: 0.38759580021724105
+  saturation: 0.6465730716008693
+  rhythmicContrast: 0.7111729199532419
+purpose: []
